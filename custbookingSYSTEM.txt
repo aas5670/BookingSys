@@ -1,0 +1,5 @@
+            NAME    TIME      ID    ROOM
+     Linguistics      10       2       C
+         Noology      14      18       C
+      Tradecraft      15      27       A
+      Psychology      16      28       B
